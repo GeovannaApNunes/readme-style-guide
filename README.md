@@ -99,6 +99,8 @@ comando aqui
 ⚠️ Use três crases (```) no início e no fim do bloco de código.
 
 ---
+````
+
 
 ## 😀 Emojis
 
@@ -174,7 +176,6 @@ npm start
 ---
 
 ```
----
 
 ## 🌟 Dica final
 
