@@ -171,12 +171,9 @@ cd seu-projeto
 npm install
 npm start
 ```
-
 ---
 
-Feito com 💙 por [Geovanna Nunes](https://github.com/GeovannaApNunes)
 ```
-
 ---
 
 ## 🌟 Dica final
@@ -187,3 +184,8 @@ Use **imagens, emojis, listas e organização** para deixá-lo mais visual e ace
 ---
 
 ```
+<div align="center">
+  Feito com 💙 por Geovanna Nunes
+</div>
+
+
